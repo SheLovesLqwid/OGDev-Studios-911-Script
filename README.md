@@ -5,7 +5,7 @@
 **Script Name:** `OG_Studios_911`
 **Version:** 1.0
 **Release Date:** 2025-04-30
-**Framework:** FiveM / GTA V (client-side)
+**Framework:** FiveM
 
 ---
 
